@@ -1,0 +1,8 @@
+{
+  "tinymist.typstExtraArgs": [
+    "--input=light=amber",
+    "--input=dark=gray"
+  ],
+  "tinymist.outputPath": "${workspaceFolder}/generated/Kodex des unerschrockenen Protagonisten",
+  "tinymist.entry": "${workspaceFolder}/main.typ"
+}
